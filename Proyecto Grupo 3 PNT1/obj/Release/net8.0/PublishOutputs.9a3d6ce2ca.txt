@@ -1,0 +1,6 @@
+C:\Users\Ezequiel\Desktop\PNT1 - CS\Nueva carpeta\Proyecto Grupo 3 PNT1.exe
+C:\Users\Ezequiel\Desktop\PNT1 - CS\Nueva carpeta\Proyecto Grupo 3 PNT1.dll
+C:\Users\Ezequiel\Desktop\PNT1 - CS\Nueva carpeta\Proyecto Grupo 3 PNT1.deps.json
+C:\Users\Ezequiel\Desktop\PNT1 - CS\Nueva carpeta\Proyecto Grupo 3 PNT1.runtimeconfig.json
+C:\Users\Ezequiel\Desktop\PNT1 - CS\Nueva carpeta\Proyecto Grupo 3 PNT1.pdb
+C:\Users\Ezequiel\Desktop\PNT1 - CS\Nueva carpeta\Microsoft.Spatial.dll
