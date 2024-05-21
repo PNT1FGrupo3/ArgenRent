@@ -1,0 +1,87 @@
+<diagram program="umletino" version="15.1"><zoom_level>11</zoom_level><element><id>UMLClass</id><coordinates><x>550</x><y>550</y><w>209</w><h>242</h></coordinates><panel_attributes>Propiedad
+-
+-id:int
+-titulo:String
+-descripcion: String
+-precioPorNoche:double
+-aceptaMascotas:boolean
+-cantidadAmbientes:int
+-cantidadDormitorios:int
+-cantidadBanos:int
+-cantidadM2Cubiertos:int
+-cantidadM2Descubiertos:int
+-cantidadCocheras:int
+-ranking:double
+-
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>605</x><y>0</y><w>154</w><h>165</h></coordinates><panel_attributes>Usuario
+-
+-id:int
+-nombre:String
+-apellido:String
+-usuario:String
+-contrasena:String
+-email: String
+-telefono: String
+-rating: double</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>363</x><y>209</y><w>330</w><h>77</h></coordinates><panel_attributes>Locatario
+-
+
+-
++alquilar(Propiedad, fechaInicio, fechaSalida):void
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>803</x><y>209</y><w>198</w><h>77</h></coordinates><panel_attributes>Locador
+-
+
+-
++publicar(Propiedad):void
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>55</x><y>319</y><w>418</w><h>176</h></coordinates><panel_attributes>App
+-
+
+-
++obtenerAlquileresPorLocador(Locador):ArrayList&lt;Alquiler&gt;
++obtenerAlquileresPorLocatario(Locatario):ArrayList&lt;Alquiler&gt;
++obtenerPropiedadesPorLocador(Locador):ArrayList&lt;Propiedad&gt;
++alquilar(Alquiler):void
++publicar(Propiedad):void
++estaAlquilada(Propiedad):boolean
+
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>UMLClass</id><coordinates><x>594</x><y>352</y><w>165</w><h>121</h></coordinates><panel_attributes>Alquiler
+-
+-id:int
+-fechaInicio: DateTime
+-fechaSalida: DateTime
+-
++estaActivo():boolean
++calcular():double</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>638</x><y>462</y><w>99</w><h>110</h></coordinates><panel_attributes>lt=&lt;-
+-propiedad
+m1=1</panel_attributes><additional_attributes>10;80;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>517</x><y>154</y><w>165</w><h>77</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>130;10;10;50</additional_attributes></element><element><id>Relation</id><coordinates><x>693</x><y>154</y><w>187</w><h>77</h></coordinates><panel_attributes>lt=&lt;&lt;-</panel_attributes><additional_attributes>10;10;150;50</additional_attributes></element><element><id>Relation</id><coordinates><x>748</x><y>275</y><w>220</w><h>319</h></coordinates><panel_attributes>lt=&lt;-
+-locador
+m1=1</panel_attributes><additional_attributes>130;10;130;270;10;270</additional_attributes></element><element><id>Relation</id><coordinates><x>638</x><y>275</y><w>88</w><h>99</h></coordinates><panel_attributes>lt=&lt;-
+-locatario
+m1=1</panel_attributes><additional_attributes>10;10;10;70</additional_attributes></element><element><id>UMLClass</id><coordinates><x>275</x><y>616</y><w>143</w><h>132</h></coordinates><panel_attributes>&lt;&lt;enum&gt;&gt;
+TipoPropiedad
+-
+_+DEPARTAMENTO_
+_+CASA_
+_+PH_
+_+CABANA_
+</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>308</x><y>33</y><w>319</w><h>308</h></coordinates><panel_attributes>lt=&lt;-
+-usuarios
+m1=0..n</panel_attributes><additional_attributes>270;20;30;20;30;260</additional_attributes></element><element><id>Relation</id><coordinates><x>330</x><y>484</y><w>242</w><h>121</h></coordinates><panel_attributes>lt=&lt;-
+-propiedades
+m1=0..n</panel_attributes><additional_attributes>200;80;10;80;10;10</additional_attributes></element><element><id>Relation</id><coordinates><x>462</x><y>385</y><w>154</w><h>55</h></coordinates><panel_attributes>lt=&lt;-
+-alquileres
+m1=0..n</panel_attributes><additional_attributes>120;20;10;20</additional_attributes></element><element><id>Relation</id><coordinates><x>462</x><y>242</y><w>363</w><h>110</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>310;10;230;10;230;80;10;80</additional_attributes></element><element><id>UMLClass</id><coordinates><x>891</x><y>627</y><w>209</w><h>165</h></coordinates><panel_attributes>Direccion
+-
+-id:int
+-ubicacion: GeographyPoint
+-calle: String
+-altura: int
+-piso:int
+-departamento:String
+-localidad: String
+-pais: String</panel_attributes><additional_attributes></additional_attributes></element><element><id>Relation</id><coordinates><x>748</x><y>627</y><w>165</w><h>55</h></coordinates><panel_attributes>lt=&lt;-
+-direccion
+m1=1</panel_attributes><additional_attributes>130;20;10;22</additional_attributes></element><element><id>Relation</id><coordinates><x>407</x><y>627</y><w>165</w><h>55</h></coordinates><panel_attributes>lt=&lt;-
+-tipoPropiedad
+m1=1</panel_attributes><additional_attributes>10;20;130;22</additional_attributes></element><element><id>Relation</id><coordinates><x>484</x><y>275</y><w>121</w><h>297</h></coordinates><panel_attributes>lt=&lt;.</panel_attributes><additional_attributes>90;250;90;190;10;190;10;10</additional_attributes></element></diagram>
