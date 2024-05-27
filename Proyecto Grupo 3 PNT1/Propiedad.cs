@@ -22,12 +22,5 @@ namespace Proyecto_Grupo_3_PNT1
         public double ranking {  get; set; }
         public Direccion direccion { get; set; }
         public Locador locador { get; set; }
-
-        public enum tipoPropiedad { 
-            Departamento,
-            Casa,
-            PH,
-            Cabania
-        }
     }
 }
