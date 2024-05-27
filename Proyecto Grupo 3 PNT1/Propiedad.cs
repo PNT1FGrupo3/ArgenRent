@@ -21,6 +21,7 @@ namespace Proyecto_Grupo_3_PNT1
         public int cantidadCocheras { get; set; }
         public double ranking {  get; set; }
         public Direccion direccion { get; set; }
+        public TipoPropiedad tipoPropiedad { get; set; }
         public Locador locador { get; set; }
     }
 }
