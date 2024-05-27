@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto_Grupo_3_PNT1
 {
-    internal class Alquiler
+    public class Alquiler
     {
         public int ID { get; set; }
         public DateTime fechaInicio { get; set; }

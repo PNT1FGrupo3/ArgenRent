@@ -7,7 +7,7 @@ using Microsoft.Spatial;
 
 namespace Proyecto_Grupo_3_PNT1
 {
-    internal class Direccion
+    public class Direccion
     {
         public int ID {  get; set; }
         public GeographyPoint ubicacion {  get; set; }

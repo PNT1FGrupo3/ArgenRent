@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto_Grupo_3_PNT1
 {
-    internal class Propiedad
+    public class Propiedad
     {
         public int ID { get; set; }
         public string titulo { get; set; }

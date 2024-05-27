@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto_Grupo_3_PNT1
 {
-    internal class Locatario : Usuario
+    public class Locatario : Usuario
     {
     }
 }

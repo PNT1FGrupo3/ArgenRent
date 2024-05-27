@@ -7,7 +7,7 @@ using System.Threading.Tasks;
 
 namespace Proyecto_Grupo_3_PNT1
 {
-    internal class MenuApp
+    public class MenuApp
     {
         public List<Usuario> usuarios;
         public List<Propiedad> propiedades;
