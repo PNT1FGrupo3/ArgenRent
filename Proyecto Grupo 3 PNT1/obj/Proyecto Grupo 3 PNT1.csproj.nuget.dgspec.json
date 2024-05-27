@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Ezequiel\\Desktop\\PNT1 - CS\\ProyectoG3\\Proyecto Grupo 3 PNT1\\Proyecto Grupo 3 PNT1\\Proyecto Grupo 3 PNT1.csproj": {}
+    "C:\\Users\\matia\\OneDrive\\Documentos\\repository\\Proyecto Grupo 3 PNT1\\Proyecto Grupo 3 PNT1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Ezequiel\\Desktop\\PNT1 - CS\\ProyectoG3\\Proyecto Grupo 3 PNT1\\Proyecto Grupo 3 PNT1\\Proyecto Grupo 3 PNT1.csproj": {
+    "C:\\Users\\matia\\OneDrive\\Documentos\\repository\\Proyecto Grupo 3 PNT1\\Proyecto Grupo 3 PNT1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Ezequiel\\Desktop\\PNT1 - CS\\ProyectoG3\\Proyecto Grupo 3 PNT1\\Proyecto Grupo 3 PNT1\\Proyecto Grupo 3 PNT1.csproj",
+        "projectUniqueName": "C:\\Users\\matia\\OneDrive\\Documentos\\repository\\Proyecto Grupo 3 PNT1\\Proyecto Grupo 3 PNT1.csproj",
         "projectName": "Proyecto Grupo 3 PNT1",
-        "projectPath": "C:\\Users\\Ezequiel\\Desktop\\PNT1 - CS\\ProyectoG3\\Proyecto Grupo 3 PNT1\\Proyecto Grupo 3 PNT1\\Proyecto Grupo 3 PNT1.csproj",
-        "packagesPath": "C:\\Users\\Ezequiel\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Ezequiel\\Desktop\\PNT1 - CS\\ProyectoG3\\Proyecto Grupo 3 PNT1\\Proyecto Grupo 3 PNT1\\obj\\",
+        "projectPath": "C:\\Users\\matia\\OneDrive\\Documentos\\repository\\Proyecto Grupo 3 PNT1\\Proyecto Grupo 3 PNT1.csproj",
+        "packagesPath": "C:\\Users\\matia\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\matia\\OneDrive\\Documentos\\repository\\Proyecto Grupo 3 PNT1\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Ezequiel\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\matia\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -50,6 +50,18 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
+            "Microsoft.EntityFrameworkCore.SqlServer": {
+              "target": "Package",
+              "version": "[8.0.5, )"
+            },
             "Microsoft.Spatial": {
               "target": "Package",
               "version": "[7.21.1, )"

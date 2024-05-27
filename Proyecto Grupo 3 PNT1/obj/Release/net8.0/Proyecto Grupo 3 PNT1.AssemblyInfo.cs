@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Proyecto Grupo 3 PNT1")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+11f3645e771a09ccebfc471702b9d5dadea08148")]
 [assembly: System.Reflection.AssemblyProductAttribute("Proyecto Grupo 3 PNT1")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Proyecto Grupo 3 PNT1")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
