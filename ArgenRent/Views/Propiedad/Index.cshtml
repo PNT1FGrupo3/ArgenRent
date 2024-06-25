@@ -1,0 +1,113 @@
+﻿@model IEnumerable<ArgenRent.Models.Propiedad>
+
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>Index</h1>
+
+<p>
+    <a asp-action="Create">Create New</a>
+</p>
+<table class="table">
+    <thead>
+        <tr>
+            <th>
+                @Html.DisplayNameFor(model => model.titulo)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.descripcion)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.precioPorNoche)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.aceptaMascotas)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cantidadAmbientes)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cantidadDormitorios)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cantidadBanios)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cantidadM2Cubiertos)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cantidadM2Descubiertos)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.cantidadCocheras)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.ranking)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.tipoPropiedad)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.usuario)
+            </th>
+            <th>
+                @Html.DisplayNameFor(model => model.direccion)
+            </th>
+            <th></th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.titulo)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.descripcion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.precioPorNoche)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.aceptaMascotas)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cantidadAmbientes)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cantidadDormitorios)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cantidadBanios)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cantidadM2Cubiertos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cantidadM2Descubiertos)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.cantidadCocheras)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.ranking)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.direccion)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.tipoPropiedad)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.usuario.apellido)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

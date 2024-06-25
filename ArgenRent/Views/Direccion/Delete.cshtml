@@ -1,0 +1,57 @@
+﻿@model ArgenRent.Models.Direccion
+
+@{
+    ViewData["Title"] = "Delete";
+}
+
+<h1>Delete</h1>
+
+<h3>Are you sure you want to delete this?</h3>
+<div>
+    <h4>Direccion</h4>
+    <hr />
+    <dl class="row">
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.calle)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.calle)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.altura)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.altura)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.piso)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.piso)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.departamento)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.departamento)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.localidad)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.localidad)
+        </dd>
+        <dt class = "col-sm-2">
+            @Html.DisplayNameFor(model => model.pais)
+        </dt>
+        <dd class = "col-sm-10">
+            @Html.DisplayFor(model => model.pais)
+        </dd>
+    </dl>
+    
+    <form asp-action="Delete">
+        <input type="hidden" asp-for="ID" />
+        <input type="submit" value="Delete" class="btn btn-danger" /> |
+        <a asp-action="Index">Back to List</a>
+    </form>
+</div>
