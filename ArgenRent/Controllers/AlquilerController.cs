@@ -49,7 +49,7 @@ namespace ArgenRent.Controllers
         // GET: Alquiler/Create
         public IActionResult Create()
         {
-            ViewData["PropiedadId"] = new SelectList(_context.Propiedades, "ID", "descripcion");
+            ViewData["PropiedadId"] = new SelectList(_context.Propiedades, "ID", "titulo");
             ViewData["UsuarioId"] = new SelectList(_context.Usuarios, "ID", "apellido");
             return View();
         }
@@ -67,7 +67,7 @@ namespace ArgenRent.Controllers
                 await _context.SaveChangesAsync();
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["PropiedadId"] = new SelectList(_context.Propiedades, "ID", "descripcion", alquiler.PropiedadId);
+            ViewData["PropiedadId"] = new SelectList(_context.Propiedades, "ID", "titulo", alquiler.PropiedadId);
             ViewData["UsuarioId"] = new SelectList(_context.Usuarios, "ID", "apellido", alquiler.UsuarioId);
             return View(alquiler);
         }
@@ -85,7 +85,7 @@ namespace ArgenRent.Controllers
             {
                 return NotFound();
             }
-            ViewData["PropiedadId"] = new SelectList(_context.Propiedades, "ID", "descripcion", alquiler.PropiedadId);
+            ViewData["PropiedadId"] = new SelectList(_context.Propiedades, "ID", "titulo", alquiler.PropiedadId);
             ViewData["UsuarioId"] = new SelectList(_context.Usuarios, "ID", "apellido", alquiler.UsuarioId);
             return View(alquiler);
         }
@@ -122,7 +122,7 @@ namespace ArgenRent.Controllers
                 }
                 return RedirectToAction(nameof(Index));
             }
-            ViewData["PropiedadId"] = new SelectList(_context.Propiedades, "ID", "descripcion", alquiler.PropiedadId);
+            ViewData["PropiedadId"] = new SelectList(_context.Propiedades, "ID", "titulo", alquiler.PropiedadId);
             ViewData["UsuarioId"] = new SelectList(_context.Usuarios, "ID", "apellido", alquiler.UsuarioId);
             return View(alquiler);
         }

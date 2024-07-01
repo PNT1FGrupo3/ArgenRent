@@ -19,10 +19,18 @@ namespace ArgenRent.Models
 
         [Display(Name = "Fecha de Salida")]
         public DateTime fechaSalida { get; set; }
+
+        [Display(Name = "Propiedad")]
         public int? PropiedadId { get; set; }
+
+        [Display(Name = "Usuario")]
         public int? UsuarioId { get; set; }
-        public virtual Propiedad propiedad { get; set; }
-        public virtual Usuario usuario { get; set; }
+
+        [Display(Name = "Propiedad")]
+        public virtual Propiedad? propiedad { get; set; }
+
+        [Display(Name = "Usuario")]
+        public virtual Usuario? usuario { get; set; }
 
     }
 }

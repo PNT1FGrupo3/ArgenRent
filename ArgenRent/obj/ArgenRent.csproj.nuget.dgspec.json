@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\ArgenRent.csproj": {}
+    "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\ArgenRent.csproj": {}
   },
   "projects": {
-    "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\ArgenRent.csproj": {
+    "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\ArgenRent.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\ArgenRent.csproj",
+        "projectUniqueName": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\ArgenRent.csproj",
         "projectName": "ArgenRent",
-        "projectPath": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\ArgenRent.csproj",
+        "projectPath": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\ArgenRent.csproj",
         "packagesPath": "C:\\Users\\matia\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\obj\\",
+        "outputPath": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

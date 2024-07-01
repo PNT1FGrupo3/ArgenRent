@@ -4,54 +4,54 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Index</h1>
+<h1>Propiedades</h1>
 
 <p>
-    <a asp-action="Create">Create New</a>
+    <a asp-action="Create">Crear</a>
 </p>
 <table class="table">
-    <thead>
+    <thead class="thead-dark">
         <tr>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.titulo)
             </th>
-            <th>
+            @*<th>
                 @Html.DisplayNameFor(model => model.descripcion)
-            </th>
-            <th>
+            </th> *@
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.precioPorNoche)
             </th>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.aceptaMascotas)
             </th>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.cantidadAmbientes)
             </th>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.cantidadDormitorios)
             </th>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.cantidadBanios)
             </th>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.cantidadM2Cubiertos)
             </th>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.cantidadM2Descubiertos)
             </th>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.cantidadCocheras)
-            </th>
-            <th>
+            </th >
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.ranking)
             </th>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.tipoPropiedad)
             </th>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.usuario)
             </th>
-            <th>
+            <th scope="col">
                 @Html.DisplayNameFor(model => model.direccion)
             </th>
             <th></th>
@@ -60,12 +60,12 @@
     <tbody>
 @foreach (var item in Model) {
         <tr>
-            <td>
+            <th scope="row">
                 @Html.DisplayFor(modelItem => item.titulo)
-            </td>
-            <td>
+            </th>
+            @* <td>
                 @Html.DisplayFor(modelItem => item.descripcion)
-            </td>
+            </td> *@
             <td>
                 @Html.DisplayFor(modelItem => item.precioPorNoche)
             </td>
@@ -94,18 +94,18 @@
                 @Html.DisplayFor(modelItem => item.ranking)
             </td>
             <td>
-                @Html.DisplayFor(modelItem => item.direccion)
-            </td>
-            <td>
                 @Html.DisplayFor(modelItem => item.tipoPropiedad)
             </td>
             <td>
                 @Html.DisplayFor(modelItem => item.usuario.apellido)
             </td>
             <td>
-                <a asp-action="Edit" asp-route-id="@item.ID">Edit</a> |
-                <a asp-action="Details" asp-route-id="@item.ID">Details</a> |
-                <a asp-action="Delete" asp-route-id="@item.ID">Delete</a>
+                @Html.DisplayFor(modelItem => item.direccion)
+            </td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.ID">Editar</a> |
+                <a asp-action="Details" asp-route-id="@item.ID">Detalle</a> |
+                <a asp-action="Delete" asp-route-id="@item.ID">Borrar</a>
             </td>
         </tr>
 }

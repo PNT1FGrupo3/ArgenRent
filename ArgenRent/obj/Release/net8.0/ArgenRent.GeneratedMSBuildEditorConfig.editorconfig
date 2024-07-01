@@ -1,47 +1,135 @@
 is_global = true
 build_property.TargetFramework = net8.0
+build_property.TargetFramework = net8.0
+build_property.TargetPlatformMinVersion = 
 build_property.TargetPlatformMinVersion = 
 build_property.UsingMicrosoftNETSdkWeb = true
+build_property.UsingMicrosoftNETSdkWeb = true
+build_property.ProjectTypeGuids = 
 build_property.ProjectTypeGuids = 
 build_property.InvariantGlobalization = 
+build_property.InvariantGlobalization = 
+build_property.PlatformNeutralAssembly = 
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
+build_property.EnforceExtendedAnalyzerRules = 
+build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = ArgenRent
 build_property.RootNamespace = ArgenRent
-build_property.ProjectDir = C:\Users\matia\OneDrive\Documentos\repository\ArgenRent\
+build_property.ProjectDir = C:\Users\matia\Downloads\ArgenRent v.2\ArgenRent v.2\ArgenRent\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
 build_property.RazorLangVersion = 8.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\matia\OneDrive\Documentos\repository\ArgenRent
+build_property.MSBuildProjectDirectory = C:\Users\matia\Downloads\ArgenRent v.2\ArgenRent v.2\ArgenRent
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/matia/OneDrive/Documentos/repository/ArgenRent/Views/Home/Index.cshtml]
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Alquiler/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxxdWlsZXJcQ3JlYXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Alquiler/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxxdWlsZXJcRGVsZXRlLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Alquiler/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxxdWlsZXJcRGV0YWlscy5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Alquiler/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxxdWlsZXJcRWRpdC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Alquiler/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcQWxxdWlsZXJcSW5kZXguY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Direccion/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWNjaW9uXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Direccion/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWNjaW9uXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Direccion/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWNjaW9uXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Direccion/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWNjaW9uXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Direccion/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcRGlyZWNjaW9uXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/OneDrive/Documentos/repository/ArgenRent/Views/Home/Privacy.cshtml]
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/OneDrive/Documentos/repository/ArgenRent/Views/Shared/Error.cshtml]
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Propiedad/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGllZGFkXENyZWF0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Propiedad/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGllZGFkXERlbGV0ZS5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Propiedad/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGllZGFkXERldGFpbHMuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Propiedad/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGllZGFkXEVkaXQuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Propiedad/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcUHJvcGllZGFkXEluZGV4LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/OneDrive/Documentos/repository/ArgenRent/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/OneDrive/Documentos/repository/ArgenRent/Views/_ViewImports.cshtml]
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Usuario/Create.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xDcmVhdGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Usuario/Delete.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZWxldGUuY3NodG1s
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Usuario/Details.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xEZXRhaWxzLmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Usuario/Edit.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xFZGl0LmNzaHRtbA==
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Usuario/Index.cshtml]
+build_metadata.AdditionalFiles.TargetPath = Vmlld3NcVXN1YXJpb1xJbmRleC5jc2h0bWw=
+build_metadata.AdditionalFiles.CssScope = 
+
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/OneDrive/Documentos/repository/ArgenRent/Views/_ViewStart.cshtml]
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/matia/OneDrive/Documentos/repository/ArgenRent/Views/Shared/_Layout.cshtml]
+[C:/Users/matia/Downloads/ArgenRent v.2/ArgenRent v.2/ArgenRent/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-fhrehnsdlp

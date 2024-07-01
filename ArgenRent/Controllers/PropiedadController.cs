@@ -58,7 +58,7 @@ namespace ArgenRent.Controllers
         // For more details, see http://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public async Task<IActionResult> Create([Bind("ID,titulo,descripcion,precioPorNoche,aceptaMascotas,cantidadAmbientes,cantidadDormitorios,cantidadBanios,cantidadM2Cubiertos,cantidadM2Descubiertos,cantidadCocheras,ranking,UsuarioId,tipoPropiedad, direccion")] Propiedad propiedad)
+        public async Task<IActionResult> Create([Bind("ID,titulo,descripcion,precioPorNoche,aceptaMascotas,cantidadAmbientes,cantidadDormitorios,cantidadBanios,cantidadM2Cubiertos,cantidadM2Descubiertos,cantidadCocheras,ranking,UsuarioId,tipoPropiedad,direccion")] Propiedad propiedad)
         {
             if (ModelState.IsValid)
             {

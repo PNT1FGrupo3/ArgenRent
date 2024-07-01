@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ArgenRent")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4daccf2e176172cc8f191bc64f66c71ea0af071f")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3c4d3c991a0fc2f6ead082ef3f04c04332184413")]
 [assembly: System.Reflection.AssemblyProductAttribute("ArgenRent")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ArgenRent")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

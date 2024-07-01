@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "RlkANbWJkF+Yr8NWdIt2M1O19/cnzJ5rTOtIRg2RLfu7NivMp7sF9/dAoE1b1gyWq9wcjV13/bKd6L86HeuNig==",
+  "dgSpecHash": "jpCPqIh0tthGpx9VvCaNPIMpmrTb0jHNutDwHQnZ9f3Y1CjdqFUoqLHIswVx7UaQZfK7994IE1PvO/fiJ659iw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\ArgenRent.csproj",
+  "projectFilePath": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\ArgenRent.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\matia\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\matia\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

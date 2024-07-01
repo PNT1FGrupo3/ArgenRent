@@ -1,42 +1,66 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\",
+  "WorkspaceRootPath": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\documents\\repo\\argenrent\\argenrent\\controllers\\propiedadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\downloads\\argenrent v.2\\argenrent v.2\\argenrent\\views\\propiedad\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|solutionrelative:views\\propiedad\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\downloads\\argenrent v.2\\argenrent v.2\\argenrent\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|solutionrelative:wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\downloads\\argenrent v.2\\argenrent v.2\\argenrent\\views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|solutionrelative:views\\usuario\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\downloads\\argenrent v.2\\argenrent v.2\\argenrent\\views\\alquiler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|solutionrelative:views\\alquiler\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\downloads\\argenrent v.2\\argenrent v.2\\argenrent\\views\\direccion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|solutionrelative:views\\direccion\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\downloads\\argenrent v.2\\argenrent v.2\\argenrent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|solutionrelative:wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\downloads\\argenrent v.2\\argenrent v.2\\argenrent\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\downloads\\argenrent v.2\\argenrent v.2\\argenrent\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\downloads\\argenrent v.2\\argenrent v.2\\argenrent\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\downloads\\argenrent v.2\\argenrent v.2\\argenrent\\views\\alquiler\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|solutionrelative:views\\alquiler\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\downloads\\argenrent v.2\\argenrent v.2\\argenrent\\controllers\\alquilercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|solutionrelative:controllers\\alquilercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\downloads\\argenrent v.2\\argenrent v.2\\argenrent\\controllers\\propiedadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|solutionrelative:controllers\\propiedadcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\documents\\repo\\argenrent\\argenrent\\views\\propiedad\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|solutionrelative:views\\propiedad\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\downloads\\argenrent v.2\\argenrent v.2\\argenrent\\models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|solutionrelative:models\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\documents\\repo\\argenrent\\argenrent\\models\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\downloads\\argenrent v.2\\argenrent v.2\\argenrent\\models\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|solutionrelative:models\\propiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Migrations\\20240624234405_cambioPropiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240624234405_cambioPropiedad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\documents\\repo\\argenrent\\argenrent\\migrations\\20240611012940_correcciondedireccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|solutionrelative:migrations\\20240611012940_correcciondedireccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Migrations\\20240611001348_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240611001348_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Migrations\\20240611001052_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240611001052_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Migrations\\20240611000738_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240611000738_Inicial.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Migrations\\20240610233453_Tercera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240610233453_Tercera.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|c:\\users\\matia\\downloads\\argenrent v.2\\argenrent v.2\\argenrent\\models\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7B102F08-E831-41F1-A7E2-4747D07FA1F9}|ArgenRent.csproj|solutionrelative:models\\alquiler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -46,7 +70,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,116 +86,191 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Views\\Propiedad\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Propiedad\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Views\\Propiedad\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Propiedad\\Edit.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAE4AAABQAAAA",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Views\\Direccion\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Direccion\\Index.cshtml",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Views\\Direccion\\Index.cshtml",
+              "RelativeToolTip": "Views\\Direccion\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-06-24T23:48:59.157Z",
+              "WhenOpened": "2024-07-01T01:14:40.071Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "20240624234405_cambioPropiedad.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Migrations\\20240624234405_cambioPropiedad.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240624234405_cambioPropiedad.cs",
-              "ToolTip": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Migrations\\20240624234405_cambioPropiedad.cs",
-              "RelativeToolTip": "Migrations\\20240624234405_cambioPropiedad.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T23:44:05.805Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Views\\Alquiler\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Alquiler\\Index.cshtml",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Views\\Alquiler\\Index.cshtml",
+              "RelativeToolTip": "Views\\Alquiler\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T01:12:59.762Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Propiedad.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Models\\Propiedad.cs",
-              "RelativeDocumentMoniker": "Models\\Propiedad.cs",
-              "ToolTip": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Models\\Propiedad.cs",
-              "RelativeToolTip": "Models\\Propiedad.cs",
-              "ViewState": "AQIAADoAAAAAAAAAAAAzwEEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T23:07:40.442Z",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Views\\Usuario\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Usuario\\Index.cshtml",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Views\\Usuario\\Index.cshtml",
+              "RelativeToolTip": "Views\\Usuario\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T01:12:48.038Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PropiedadController.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Controllers\\PropiedadController.cs",
-              "RelativeDocumentMoniker": "Controllers\\PropiedadController.cs",
-              "ToolTip": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Controllers\\PropiedadController.cs",
-              "RelativeToolTip": "Controllers\\PropiedadController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAjwBoAAAAIAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-24T23:04:09.513Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "20240611012940_CorreccionDeDireccion.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Migrations\\20240611012940_CorreccionDeDireccion.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240611012940_CorreccionDeDireccion.cs",
-              "ToolTip": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Migrations\\20240611012940_CorreccionDeDireccion.cs",
-              "RelativeToolTip": "Migrations\\20240611012940_CorreccionDeDireccion.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAADQAAAAjAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T01:29:40.632Z",
+              "DocumentIndex": 1,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "wwwroot\\css\\site.css",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-29T19:30:13.179Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "20240611001348_Inicial.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Migrations\\20240611001348_Inicial.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240611001348_Inicial.cs",
-              "ToolTip": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Migrations\\20240611001348_Inicial.cs",
-              "RelativeToolTip": "Migrations\\20240611001348_Inicial.cs",
+              "Title": "bootstrap.css",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeDocumentMoniker": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+              "RelativeToolTip": "wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T00:13:49.069Z"
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-06-29T19:25:59.454Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "20240611001052_Inicial.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Migrations\\20240611001052_Inicial.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240611001052_Inicial.cs",
-              "ToolTip": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Migrations\\20240611001052_Inicial.cs",
-              "RelativeToolTip": "Migrations\\20240611001052_Inicial.cs",
-              "ViewState": "AQIAAGoAAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T00:10:52.778Z"
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACcAAAAAAAAAAAAAACwAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T00:31:04.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Views\\Propiedad\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Propiedad\\Index.cshtml",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Views\\Propiedad\\Index.cshtml",
+              "RelativeToolTip": "Views\\Propiedad\\Index.cshtml",
+              "ViewState": "AQIAADMAAAAAAAAAAAAAAD4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-07-01T00:13:14.886Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "20240611000738_Inicial.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Migrations\\20240611000738_Inicial.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240611000738_Inicial.cs",
-              "ToolTip": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Migrations\\20240611000738_Inicial.cs",
-              "RelativeToolTip": "Migrations\\20240611000738_Inicial.cs",
-              "ViewState": "AQIAAB8AAAAAAAAAAAAQwAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-11T00:07:38.801Z"
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-29T00:55:33.405Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 8,
-              "Title": "20240610233453_Tercera.cs",
-              "DocumentMoniker": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Migrations\\20240610233453_Tercera.cs",
-              "RelativeDocumentMoniker": "Migrations\\20240610233453_Tercera.cs",
-              "ToolTip": "C:\\Users\\matia\\Documents\\Repo\\ArgenRent\\ArgenRent\\Migrations\\20240610233453_Tercera.cs",
-              "RelativeToolTip": "Migrations\\20240610233453_Tercera.cs",
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Program.cs",
+              "RelativeToolTip": "Program.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-06-10T23:34:53.957Z"
+              "WhenOpened": "2024-06-29T00:55:20.868Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Views\\Alquiler\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Alquiler\\Create.cshtml",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Views\\Alquiler\\Create.cshtml",
+              "RelativeToolTip": "Views\\Alquiler\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-06-28T23:35:34.663Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "AlquilerController.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Controllers\\AlquilerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AlquilerController.cs",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Controllers\\AlquilerController.cs",
+              "RelativeToolTip": "Controllers\\AlquilerController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAAAADkAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-28T23:26:11.859Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PropiedadController.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Controllers\\PropiedadController.cs",
+              "RelativeDocumentMoniker": "Controllers\\PropiedadController.cs",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Controllers\\PropiedadController.cs",
+              "RelativeToolTip": "Controllers\\PropiedadController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAYwJ8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T22:48:01.705Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Usuario.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Models\\Usuario.cs",
+              "RelativeDocumentMoniker": "Models\\Usuario.cs",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Models\\Usuario.cs",
+              "RelativeToolTip": "Models\\Usuario.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAwwC0AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T22:41:41.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Propiedad.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Models\\Propiedad.cs",
+              "RelativeDocumentMoniker": "Models\\Propiedad.cs",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Models\\Propiedad.cs",
+              "RelativeToolTip": "Models\\Propiedad.cs",
+              "ViewState": "AQIAADIAAAAAAAAAAAAAwE8AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T22:41:40.053Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Alquiler.cs",
+              "DocumentMoniker": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Models\\Alquiler.cs",
+              "RelativeDocumentMoniker": "Models\\Alquiler.cs",
+              "ToolTip": "C:\\Users\\matia\\Downloads\\ArgenRent v.2\\ArgenRent v.2\\ArgenRent\\Models\\Alquiler.cs",
+              "RelativeToolTip": "Models\\Alquiler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-27T22:41:36.546Z"
             }
           ]
         }
