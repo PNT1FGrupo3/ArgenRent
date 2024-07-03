@@ -20,12 +20,30 @@ namespace ArgenRent.Controllers
         }
 
         // GET: Propiedad
-        public async Task<IActionResult> Index()
+        /*public async Task<IActionResult> Index()
         {
             var argenRentDatabaseContext = _context.Propiedades.Include(p => p.usuario);
             return View(await argenRentDatabaseContext.ToListAsync());
-        }
+        }*/
 
+        // GET: Propiedad
+        public async Task<IActionResult> Index(string? id)
+        {
+            if (_context.Propiedades == null)
+            {
+                return Problem("El DbSet de Propiedades es nulo.");
+            }
+
+            var propiedades = from p in _context.Propiedades
+                              select p;
+
+            if (!String.IsNullOrEmpty(id))
+            {
+                propiedades = propiedades.Where(s => s.titulo!.Contains(id));
+            }
+
+            return View(await propiedades.ToListAsync());
+        }
         // GET: Propiedad/Details/5
         public async Task<IActionResult> Details(int? id)
         {
