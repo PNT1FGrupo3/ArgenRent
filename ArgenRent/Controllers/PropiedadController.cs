@@ -27,7 +27,7 @@ namespace ArgenRent.Controllers
         }*/
 
         // GET: Propiedad
-        public async Task<IActionResult> Index(string? id)
+        public async Task<IActionResult> Index(string? searchString)
         {
             if (_context.Propiedades == null)
             {
@@ -37,9 +37,9 @@ namespace ArgenRent.Controllers
             var propiedades = from p in _context.Propiedades
                               select p;
 
-            if (!String.IsNullOrEmpty(id))
+            if (!String.IsNullOrEmpty(searchString))
             {
-                propiedades = propiedades.Where(s => s.titulo!.Contains(id));
+                propiedades = propiedades.Where(s => s.titulo!.Contains(searchString));
             }
 
             return View(await propiedades.ToListAsync());

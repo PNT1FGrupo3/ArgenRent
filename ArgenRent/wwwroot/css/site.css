@@ -24,3 +24,10 @@ body {
     background-repeat: no-repeat;
     font-family:Calibri;
 }
+
+#search-wrapper {
+    display: flex;
+    input{
+             margin-right:5px;
+         }
+}

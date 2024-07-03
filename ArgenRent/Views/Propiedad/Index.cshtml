@@ -9,6 +9,23 @@
 <p>
     <a asp-action="Create">Crear</a>
 </p>
+
+<div id="search-wrapper">
+    <form asp-controller="Propiedad" asp-action="Index">
+        <p>
+            Filtro: <input type="text" name="SearchString" />
+            <input type="submit" value="Buscar" />
+        </p>
+    </form>
+
+    <form asp-controller="Propiedad" asp-action="Index">
+        <p>
+            <input type="submit" value="Ver todos" />
+        </p>
+    </form>
+</div>
+
+
 <table class="table">
     <thead class="thead-dark">
         <tr>
