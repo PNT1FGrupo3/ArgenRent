@@ -4,26 +4,26 @@
     ViewData["Title"] = "Index";
 }
 
-<h1>Propiedades</h1>
+<h1 class="display-5 fw-bolder text-center">Propiedades</h1>
 
 <p>
     <a asp-action="Create">Crear</a>
 </p>
 
-<div id="search-wrapper">
+@* <div id="search-wrapper">
     <form asp-controller="Propiedad" asp-action="Index">
         <p>
             Filtro: <input type="text" name="SearchString" />
-            <input type="submit" value="Buscar" />
+            <input type="submit" value="Buscar" class="btn btn-secondary" />
         </p>
     </form>
 
     <form asp-controller="Propiedad" asp-action="Index">
         <p>
-            <input type="submit" value="Ver todos" />
+            <input type="submit" value="Ver todos" class="btn btn-secondary" />
         </p>
     </form>
-</div>
+</div> *@
 
 
 <table class="table">

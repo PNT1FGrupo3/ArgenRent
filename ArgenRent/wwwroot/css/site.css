@@ -19,11 +19,13 @@ html {
 
 body {
     margin-bottom: 60px;
-    background-image: url(../images/fondo.png);
+    background-image: url('../images/Fondo con logo transparente.png');
     background-size: cover;
     background-repeat: no-repeat;
     font-family:Calibri;
+    background-position:bottom
 }
+
 
 #search-wrapper {
     display: flex;
@@ -31,3 +33,4 @@ body {
              margin-right:5px;
          }
 }
+

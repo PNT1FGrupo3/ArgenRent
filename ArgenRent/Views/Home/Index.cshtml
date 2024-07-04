@@ -4,6 +4,66 @@
 
 <div class="container-index">
     <div class="text-center">
-        <h1 class="display-4">¡Te damos la bienvenida a ArgenRent!</h1>
+        <h1 class="display-5 fw-bolder">¡Te damos la bienvenida a ArgenRent!</h1>
     </div>
+</div>
+<br />
+<br />
+<br />
+
+
+<div id="search-wrapper">
+    <form asp-controller="Propiedad" asp-action="Index">
+        <p class="fw-bolder text-center">
+            Indica una palabra clave para buscar tu próximo alquiler: <input type="text" name="SearchString" />
+            <input type="submit" value="Buscar" class="btn btn-secondary" />
+        </p>
+    </form>
+
+ @*    <form asp-controller="Propiedad" asp-action="Index">
+        <p>
+            <input type="submit" value="Ver todos" class="btn btn-secondary" />
+        </p>
+    </form> *@
+</div>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+
+<div id="carouselExampleControls" class="carousel slide" data-bs-ride="carousel">
+    <div class="carousel-inner">
+        <div class="carousel-item active">
+            <img src="~/images/dormitorio.png" class="d-block w-25 h-25 justify-content-center" alt="dormitorio">
+        </div>
+        <div class="carousel-item">
+            <img src="~/images/living.jpg" class="d-block w-25 h-25 justify-content-center" alt="living">
+        </div>
+        <div class="carousel-item">
+            <img src="~/images/edificios.jpg" class="d-block w-25 h-25 justify-content-center" alt="edificios">
+        </div>
+    </div>
+    <button class="carousel-control-prev" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Previous</span>
+    </button>
+    <button class="carousel-control-next" type="button" data-bs-target="#carouselExampleControls" data-bs-slide="next">
+        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+        <span class="visually-hidden">Next</span>
+    </button>
 </div>
